@@ -4,6 +4,9 @@
     <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
   </div>
 <h3 align="center">Sushi Website</h3>
+  <div align="center">
+    Build the Modern style Sushi Website with this Repository.
+  </div>
 </div>
 
 ## <a name="quick-start">🤸 Quick Start</a>
